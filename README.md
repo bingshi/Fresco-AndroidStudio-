@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fresco 
 
 Fresco is a powerful system for displaying images in Android applications.
@@ -44,3 +45,7 @@ For pull requests, please see the [CONTRIBUTING](https://github.com/facebook/fre
 
 ## License
 Fresco is [BSD-licensed](https://github.com/facebook/fresco/blob/master/LICENSE). We also provide an additional [patent grant](https://github.com/facebook/fresco/blob/master/PATENTS).
+=======
+# Fresco-AndroidStudio-
+Fresco-AndroidStudio编译好的库，直接可以导入到AndroidStudio运行
+>>>>>>> 8cad1c0a4b7f3d6e7b6db2c2dee9226150df7e59
